@@ -2,7 +2,7 @@ package org.example;
 
 public class Third_Task {
     public static void main(String[] args) {
-        int num = 12672;
+        int num = 126742;
         boolean flag = true;
         while (num != 0) {
             int res1 = num % 10;
